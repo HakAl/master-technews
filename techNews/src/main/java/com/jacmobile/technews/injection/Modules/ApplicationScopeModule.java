@@ -16,4 +16,5 @@ import dagger.Module;
 )
 public class ApplicationScopeModule
 {
+
 }

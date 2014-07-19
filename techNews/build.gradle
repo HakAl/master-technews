@@ -27,4 +27,9 @@ dependencies {
     compile 'com.navercorp.volleyextensions:volley-extensions:1.1.0'
     compile files('C:/Users/Angelo/Desktop/Tech_News/libs/Simple-Rss2-Android.jar')
     compile files('C:/Users/Angelo/Desktop/Tech_News/libs/volley_plus.jar')
+    compile('org.simpleframework:simple-xml:2.7.+') {
+        exclude module: 'stax'
+        exclude module: 'stax-api'
+        exclude module: 'xpp3'
+    }
 }
