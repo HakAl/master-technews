@@ -1,10 +1,5 @@
 package application;
 
-import android.app.Application;
-import android.content.Context;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
-
 import com.jacmobile.technews.injection.DaggerApplication;
 import com.jacmobile.technews.injection.Modules.ApplicationScopeModule;
 
