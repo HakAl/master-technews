@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="volley-extensions-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.volleyextensions/volley-extensions/1.1.0/bc9c60966dd66e945223f4b470c180fcc019e60f/volley-extensions-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.volleyextensions/volley-extensions/1.1.0/66c7f59b4e92e507c674e3de8868973ea74c1e25/volley-extensions-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
