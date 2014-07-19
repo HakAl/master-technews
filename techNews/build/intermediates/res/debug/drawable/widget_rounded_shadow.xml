@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <solid android:color="@color/LighterBlack" />
+    <corners android:radius="@dimen/activity_four"/>
+
+</shape>
+<!-- From: file:/C:/Users/Angelo/Desktop/Tech_News/techNews/src/main/res/drawable/widget_rounded_shadow.xml -->
