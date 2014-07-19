@@ -1,0 +1,33 @@
+apply plugin: 'android'
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.jacmobile.technews"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':volley')
+    compile fileTree(dir: 'libs', include: '*.jar')
+    compile 'com.squareup.dagger:dagger-compiler:1.2.1'
+    compile 'org.jsoup:jsoup:1.7.2'
+    compile 'com.android.support:appcompat-v7:19.1.+'
+    compile 'com.android.support:support-v4:19.1.+'
+    compile 'com.github.dmytrodanylyk.android-process-button:library:0.0.7'
+    compile 'com.andrewgiang.spritzertextview:library:0.3.31'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.2'
+    compile 'com.quentindommerc.superlistview:library:1.5.2'
+    compile 'com.github.castorflex.smoothprogressbar:library:0.5.2'
+    compile files('C:/Users/Angelo/Desktop/Tech_News/libs/Simple-Rss2-Android.jar')
+}

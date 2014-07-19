@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#FFF</color>
+    <color name="Whitish">#eAeAeA</color>
+    <color name="OffWhite">#aaa</color>
+    <color name="Black">#000</color>
+    <color name="Grey">#7F7F7F</color>
+    <color name="DarkGrey">#4F4F4F</color>
+    <color name="Green">#4F6</color>
+    <color name="Red">#fff7000e</color>
+    <color name="TransparentGrey">#00000000</color>
+    
+    <!-- Button widget color -->
+    <color name="LighterBlack">#4a4a4a</color>
+    <color name="Midnight">#2a2a2a</color>
+    <color name="LightBlack">#1a1a1a</color>
+    <color name="Pressed">#aaaaaaaa</color>
+    
+    <color name="CoolGreen">#3cb371</color>
+    <color name="CoolBlue">#ee22bbff</color>
+    
+    <color name="Yellow">#FF0</color>
+    <color name="LightYellow">#f1f100</color>
+    <color name="TransLightYellow">#aaf1f100</color>
+
+    <array name="progress_colors">
+        <item>@color/Green</item>
+        <item>@color/CoolBlue</item>
+        <item>@color/Yellow</item>
+    </array>
+</resources>

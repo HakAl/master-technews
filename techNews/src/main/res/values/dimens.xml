@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="negative_ten">-10dp</dimen>
+    <dimen name="negative_margin">-16dp</dimen>
+    <dimen name="negative_twenty">-20dp</dimen>
+    
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="point_five_dp">.5dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="six_dp">6dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="twelve_dp">12dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="twentyfive_dp">25dp</dimen>
+    <dimen name="thirtyfive_dp">35dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="cien_dp">100dp</dimen>
+    <dimen name="twohundred_dp">200dp</dimen>
+    <dimen name="twoforty_dp">240dp</dimen>
+        
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_eight">8dp</dimen>
+    <dimen name="activity_four">8dp</dimen>
+    <dimen name="activity_two">2dp</dimen>
+    <dimen name="shadow">1dp</dimen>
+    
+    <!-- List row dimensions -->
+    <dimen name="list_icon_size">50dp</dimen>
+    <dimen name="list_icon_padding">5dp</dimen>
+    <dimen name="list_row_height">80dp</dimen>
+    <dimen name="list_icon_large">80dp</dimen>
+    <dimen name="list_row_large">110dp</dimen>
+    
+	<!-- Font dimens -->
+    <dimen name="font_ten">10sp</dimen>
+    <dimen name="font_twelve">12sp</dimen>
+    <dimen name="font_fourteen">14sp</dimen>
+    <dimen name="font_sixteen">16sp</dimen>
+    <dimen name="font_eighteen">18sp</dimen>
+    <dimen name="font_twenty">20sp</dimen>
+    <dimen name="font_twentyfour">24sp</dimen>
+    <dimen name="font_thirtysix">36sp</dimen>
+    <dimen name="font_fortyeight">48sp</dimen>
+</resources>
