@@ -8,10 +8,10 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class ServiceManager
 {
-    private ServiceManager()
+    public ServiceManager()
     {
-        throw new AssertionError();
-    } // Prevents instantiation (Item 4)
+//        inject(this);
+    }
 
     // Maps service names to services
     private static final Map<String, NetworkProvider> providers = new ConcurrentHashMap<String, NetworkProvider>();

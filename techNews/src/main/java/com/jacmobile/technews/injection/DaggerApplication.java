@@ -25,7 +25,7 @@ public abstract class DaggerApplication extends Application implements DaggerInj
         // bootstrap. So that it allows no-arg constructor in techNewsModule
         techNewsModule.applicationContext = this.getApplicationContext();
 
-        List<Object> modules = new ArrayList<>();
+        List<Object> modules = new ArrayList<Object>();
         modules.add(techNewsModule);
         modules.addAll(getAppModules());
 

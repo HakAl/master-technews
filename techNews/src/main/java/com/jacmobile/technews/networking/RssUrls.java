@@ -1,4 +1,4 @@
-package com.jacmobile.technews.util.networking;
+package com.jacmobile.technews.networking;
 
 /**
  * Created by User on 7/12/2014.
